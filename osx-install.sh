@@ -14,6 +14,7 @@ brew install wget
 brew install node
 brew install ant
 brew install ffmpeg
+brew install vim
 npm install -g gitjk
  
 brew tap phinze/cask
@@ -31,7 +32,7 @@ echo Install Dev Apps
 brew cask install github
 brew cask install sublime-text
 brew cask install macvim
-brew cask install virtualbox
+#brew cask install virtualbox
 brew cask install vagrant
 brew cask install sourcetree
 brew cask install charles
@@ -49,6 +50,10 @@ brew cask install firefox
 brew cask install skype
 brew cask install spotify
 brew cask install spotify-notifications
+
+#Install ZSH
+brew install zsh
+chsh -s /bin/zsh
  
 # cleanup
 brew cleanup --force
