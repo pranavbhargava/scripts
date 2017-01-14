@@ -64,6 +64,9 @@ brew cask install google-chrome
 #dropbox
 brew cask install  dropbox
 
+#box
+brew cask install box-sync
+
 #firefox
 brew cask install firefox
 
