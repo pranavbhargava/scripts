@@ -45,6 +45,9 @@ chflags nohidden ~/Library
 echo "Show all filename extensions in Finder"
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
+echo "Show all files(hidden) etc. "
+defaults write com.apple.finder AppleShowAllFiles YES
+
 echo "Expand save panel by default"
 defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true
 

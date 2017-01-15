@@ -106,6 +106,12 @@ brew cask install ring
 #https://github.com/mapmeld/gitjk
 npm install -g gitjk
 
+#Robomongo
+brew cask install robomongo
+
+#Glances (https://github.com/nicolargo/glances)
+pip install glances
+
  
 #Install ZSH
 brew install zsh
