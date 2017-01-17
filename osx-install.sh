@@ -94,6 +94,9 @@ brew cask install virtualbox
 #Docker
 brew cask install docker
 
+#kitematic
+brew cask install kitemati
+
 #Spring Tool Suite
 brew cask install sts
 
