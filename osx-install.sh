@@ -52,6 +52,8 @@ brew install vim
 #nodejs
 brew install node
 
+#multitail
+brew install multitail
 
 brew tap homebrew/completions
 
