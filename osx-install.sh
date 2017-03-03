@@ -43,6 +43,9 @@ brew install direnv
 #wget
 brew install wget
 
+#ack
+brew install ack
+
 #ant
 brew install ant
 
@@ -113,6 +116,9 @@ npm install -g gitjk
 
 #Robomongo
 brew cask install robomongo
+
+#rbtools(reviewboard)
+brew cask install rbtools
 
 #Glances (https://github.com/nicolargo/glances)
 pip install glances
