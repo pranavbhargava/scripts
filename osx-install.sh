@@ -123,6 +123,9 @@ brew cask install rbtools
 #Glances (https://github.com/nicolargo/glances)
 pip install glances
 
+#lastpass
+brew cask install lastpass
+
  
 #Install ZSH
 brew install zsh
