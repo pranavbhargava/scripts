@@ -103,7 +103,7 @@ brew cask install virtualbox
 brew cask install docker
 
 #kitematic
-brew cask install kitemati
+brew cask install kitematic
 
 #Spring Tool Suite
 brew cask install sts
