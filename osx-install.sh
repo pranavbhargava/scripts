@@ -12,6 +12,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
+#java8
+brew cask install java8
+
 #App store installation
 brew install mas
 
