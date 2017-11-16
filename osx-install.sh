@@ -91,7 +91,7 @@ brew cask install skype
 brew cask install iterm2
 
 #Github Desktop
-brew cask install github-desktop
+brew cask install github
 
 #VirtualBox
 brew cask install virtualbox
