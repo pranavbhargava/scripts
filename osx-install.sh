@@ -8,7 +8,7 @@ echo  '\n'
 xcode-select --install
 
 # Install Homebrew
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null ; brew install caskroom/cask/brew-cask 2> /dev/null
 
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
