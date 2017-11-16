@@ -118,7 +118,7 @@ brew cask install ring
 npm install -g gitjk
 
 #Robomongo
-brew cask install robomongo
+brew cask install robo-3t
 
 #rbtools(reviewboard)
 brew cask install rbtools
@@ -129,7 +129,9 @@ pip install glances
 #lastpass
 brew cask install lastpass
 
- 
+#telnet
+brew install telnet
+
 #Install ZSH
 brew install zsh
 chsh -s /bin/zsh
