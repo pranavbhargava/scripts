@@ -12,6 +12,8 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
+brew tap caskroom/versions
+
 #java8
 brew cask install java8
 
@@ -135,6 +137,24 @@ brew install telnet
 #Install ZSH
 brew install zsh
 chsh -s /bin/zsh
+
+#bundler
+gem install bundler
+
+#awscli
+brew install awscli
+
+#maven
+brew install maven
+
+#aerial screensaver
+brew cask install aerial
+
+#Remote Desktop Microsoft
+brew cask install microsoft-remote-desktop-beta
+
+#glances
+pip install glances
  
 # cleanup
 brew cleanup --force
