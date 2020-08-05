@@ -14,14 +14,8 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
 brew tap caskroom/versions
 
-#java8
-brew cask install java8
-
 #App store installation
 brew install mas
-
-# Readline
-brew install readline
 
 # cloc
 brew install cloc
@@ -87,10 +81,10 @@ brew cask install sublime-text
 brew cask install sourcetree
 
 #charles proxy
-brew cask install charles
+#brew cask install charles
 
 #skype
-brew cask install skype
+#brew cask install skype
 
 #iterm
 brew cask install iterm2
@@ -108,22 +102,19 @@ brew cask install docker
 brew cask install kitematic
 
 #Spring Tool Suite
-brew cask install sts
+#brew cask install sts
 
 #whatsapp
 brew cask install whatsapp
 
 #Ring
-brew cask install ring
+#brew cask install ring
 
 #https://github.com/mapmeld/gitjk
 npm install -g gitjk
 
 #Robomongo
 brew cask install robo-3t
-
-#rbtools(reviewboard)
-brew cask install rbtools
 
 #Glances (https://github.com/nicolargo/glances)
 pip install glances
