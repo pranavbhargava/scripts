@@ -46,10 +46,10 @@ brew install wget
 brew install ack
 
 #ant
-brew install ant
+#brew install ant
 
 #vim
-brew install vim
+#brew install vim
 
 #nodejs
 brew install node
@@ -60,10 +60,10 @@ brew install multitail
 brew tap homebrew/completions
 
 #slack
-brew cask install slack
+#brew cask install slack
 
 #google chrome
-brew cask install google-chrome
+#brew cask install google-chrome
 
 #dropbox
 brew cask install  dropbox
@@ -75,7 +75,7 @@ brew cask install box-sync
 brew cask install firefox
 
 #sublime-text
-brew cask install sublime-text
+#brew cask install sublime-text
 
 #sourcetree
 brew cask install sourcetree
@@ -93,13 +93,13 @@ brew cask install iterm2
 brew cask install github
 
 #VirtualBox
-brew cask install virtualbox
+#brew cask install virtualbox
 
 #Docker
-brew cask install docker
+#brew cask install docker
 
 #kitematic
-brew cask install kitematic
+#brew cask install kitematic
 
 #Spring Tool Suite
 #brew cask install sts
@@ -114,7 +114,7 @@ brew cask install whatsapp
 npm install -g gitjk
 
 #Robomongo
-brew cask install robo-3t
+#brew cask install robo-3t
 
 #Glances (https://github.com/nicolargo/glances)
 pip install glances
@@ -136,7 +136,7 @@ gem install bundler
 brew install awscli
 
 #maven
-brew install maven
+#brew install maven
 
 #aerial screensaver
 brew cask install aerial
