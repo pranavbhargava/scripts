@@ -141,12 +141,8 @@ brew install awscli
 #aerial screensaver
 brew cask install aerial
 
-#Remote Desktop Microsoft
-brew cask install microsoft-remote-desktop-beta
-
 #glances
-pip install glances
+#pip install glances
  
 # cleanup
 brew cleanup --force
-rm -f -r /Library/Caches/Homebrew/*
